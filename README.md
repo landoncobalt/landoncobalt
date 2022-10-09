@@ -1,7 +1,21 @@
-- 👋 Hi, I’m @landoncobalt
-- 👀 I’m interested in ... Golang, Ruby, Data Engineering, Product & Application Security (DevSecOps, Shift Left, STRIDE Threat Modeling), Multi-Hybrid Cloud Architecture (On Prem, GCP, Azure), IaC, PaC, IAM, SSDLC Software Engineering and Cloud Security Engineering
-- 🌱 I’m currently learning & preparing for ... Hashicorp Suite (Terraform, Vault), Google Cloud Data, Developer, Security and DevOps Engineer Professional Certifications.
-- 💞️ I’m Seeking opportunities/experiences to practice/intern in the following roles ... Associate Google Cloud Engineer, Jr. Data Engineer, Jr. Software Engineer (golang, ruby), DevOps Engineer, and a Jr. Cloud Product Security Engineer.
+- 👋 Hi, I’m @landoncobalt, Security Apprentice @ Cobalt - a Leader in PTaaS (Pentesting as a Service).
+
+- 👀 I’m interested in ... Cloud Data Engineering (GCP, Azure), Cloud Product & Application Security (DevSecOps, Shift Left, STRIDE Threat Modeling), Multi-Hybrid Cloud Architecture (On Prem, GCP, Azure), GCP IAM Engineering (GCP Cloud Identity, OKTA), Cloud Native SSDLC Software Engineering (Golang, Ruby, Javascript, HTML, and CSS), and GCP Cloud Security Engineering.
+
+- 🌱 I’m currently learning & preparing for ...  
+          - CompTIA Linux+
+          - Google/Azure Cloud Data Engineer Professional Certification, 
+          - Google/Azure Cloud Developer Professional Certification,
+          - Google/Azure Cloud Security Engineer Professional Certification,
+          - Undergraduate in Computer Science or Cyber Security.
+
+- 💞️ I’m Seeking opportunities/experiences to practice/intern in the following roles ... 
+          - Associate Google Cloud Engineer, 
+          - Data Engineer (GCP, Azure),
+          - Software Engineer (golang, ruby, Cloud Native, SSDLC), 
+          - DevOps Engineer (GCP, Azure, Terraform, Kubernetes, Docker, Jenkins),
+          - Cloud Product Security Engineer (DevSecOps, Shift Left, STRIDE Threat Modeling).
+          
 - 📫 How to reach me ... Email: landonried@gmail.com or Linkedin: https://www.linkedin.com/in/landon-ried-719b6620/
 
 <!---
