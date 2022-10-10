@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @landoncobalt, Security Apprentice @ Cobalt - a Leader in PTaaS (Pentesting as a Service).
-
 👋 Hi, I’m @landoncobalt, Security Apprentice @ Cobalt - an industry leader & innovator in PTaaS (Pentesting as a Service).
 
 👀 I’m interested in following domains ... 
